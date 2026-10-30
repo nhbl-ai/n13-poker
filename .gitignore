@@ -1,0 +1,59 @@
+# Build output and local tools
+/build*/
+/dist/
+/.tools/
+/.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.a
+*.log
+
+# Visual Studio legacy files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+
+# Private runtime data. Only data/defaults/*.txt templates are versioned.
+/N13/users.txt
+/N13/player.txt
+/N13/Leaderboard.txt
+/users.txt
+/player.txt
+/Leaderboard.txt
+**/.env
+**/.env.*
+*.pem
+*.key
+
+# Archives, local backups, and old bundled SFML distribution
+*.zip
+*.rar
+*.7z
+/third_party/
+/N13/include/
+/N13/lib/
+/N13/bin/
+/N13/doc/
+/N13/examples/
+/N13/PNG-cards-1.3/
+/N13/N13/
+/N13/readme.md
+/N13/changelog.md
+/N13/license.md
+/background.jpg
+/Tajawal-ExtraLight.ttf
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/

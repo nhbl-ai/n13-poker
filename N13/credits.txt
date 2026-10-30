@@ -1,0 +1,17 @@
+CREDITS
+
+Developed by:
+- Nguyen Gia
+- Nguyen Hoang Bao Long
+- Vo My Ngoc
+
+Programming: C++ using Visual Studio
+Graphics Rendering: Powered by SFML 
+
+
+Special Thanks:
+- Our professor: Ms.Nhi, Ms.Uyen
+- The Player Community
+
+Project information:
+This game is a project for our subject at HCMUS Campus. 
